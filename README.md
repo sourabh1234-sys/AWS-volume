@@ -1,4 +1,4 @@
-# AWS EBS Volume Management and Apache Installation
+# AWS EBS Volume Management 
 
 ## Overview
 
